@@ -1,0 +1,9 @@
+D:\valheim-mods\MistlandsMods\CraftingFilter\obj\Release\net480\CraftingFilter.csproj.AssemblyReference.cache
+D:\valheim-mods\MistlandsMods\CraftingFilter\obj\Release\net480\CraftingFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\valheim-mods\MistlandsMods\CraftingFilter\obj\Release\net480\CraftingFilter.AssemblyInfoInputs.cache
+D:\valheim-mods\MistlandsMods\CraftingFilter\obj\Release\net480\CraftingFilter.AssemblyInfo.cs
+D:\valheim-mods\MistlandsMods\CraftingFilter\obj\Release\net480\CraftingFilter.csproj.CoreCompileInputs.cache
+D:\valheim-mods\MistlandsMods\CraftingFilter\bin\Release\net480\CraftingFilter.dll
+D:\valheim-mods\MistlandsMods\CraftingFilter\bin\Release\net480\CraftingFilter.pdb
+D:\valheim-mods\MistlandsMods\CraftingFilter\obj\Release\net480\CraftingFilter.dll
+D:\valheim-mods\MistlandsMods\CraftingFilter\obj\Release\net480\CraftingFilter.pdb
