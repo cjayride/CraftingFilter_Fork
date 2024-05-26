@@ -22,3 +22,7 @@ C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\Crafti
 C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\CraftingFilter\obj\Debug\net480\CraftingFilter.pdb
 C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\CraftingFilter\bin\Debug\net480\CraftingFilter.dll
 C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\CraftingFilter\bin\Debug\net480\CraftingFilter.pdb
+C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\CraftingFilter\obj\Debug\net480\CraftingFilter.sourcelink.json
+C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\CraftingFilter\bin\Debug\net480\0Harmony20.dll
+C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\CraftingFilter\bin\Debug\net480\HarmonyXInterop.dll
+C:\Users\Administrator\Documents\Valheim-Modding\CraftingFilter_Fork-main\CraftingFilter\obj\Debug\net480\Crafting.C103DE5B.Up2Date

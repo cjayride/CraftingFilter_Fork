@@ -11,7 +11,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 namespace CraftingFilter {
-    [BepInPlugin("cjayride.CraftingFilter", "Crafting Filter", "1.0.0")]
+    [BepInPlugin("cjayride.CraftingFilter", "Crafting Filter", "1.1.0")]
     public class BepInExPlugin : BaseUnityPlugin
     {
 
@@ -242,9 +242,17 @@ namespace CraftingFilter {
                 List<Recipe> recipes = new List<Recipe>();
                 Player.m_localPlayer.GetAvailableRecipes(ref recipes);
 
-                float gameScale = GameObject.Find("LoadingGUI").GetComponent<CanvasScaler>().scaleFactor;
+                // float gameScale = GameObject.Find("LoadingGUI").GetComponent<CanvasScaler>().scaleFactor;
+                float craftingPanelScale = InventoryGui.instance.m_crafting.gameObject.transform.localScale.x;
                 Vector2 pos = InventoryGui.instance.m_tabCraft.gameObject.transform.GetComponent<RectTransform>().position;
-                float height = InventoryGui.instance.m_tabCraft.gameObject.transform.GetComponent<RectTransform>().rect.height * gameScale;
+                float height = InventoryGui.instance.m_tabCraft.gameObject.transform.GetComponent<RectTransform>().rect.height * craftingPanelScale;                
+
+                /* Console.print("#######################");
+                Console.print("gameScale = " + gameScale);
+                Console.print("craftingPanelScale = " + craftingPanelScale);
+                Console.print("pos = " + pos);
+                Console.print("height = " + height);
+                Console.print("#######################"); */
 
                 int showCount = 0;
                 for (int i = 0; i < categoryNames.Count; i++)
@@ -253,7 +261,7 @@ namespace CraftingFilter {
                     dropDownList[i].SetActive(count > 0 || categoryDict[categoryNames[i]].Contains(ItemDrop.ItemData.ItemType.None));
                     if (count > 0 || categoryDict[categoryNames[i]].Contains(ItemDrop.ItemData.ItemType.None))
                     {
-                        dropDownList[i].GetComponent<RectTransform>().position = pos - new Vector2(0, height * (showCount++ + 1));
+                        dropDownList[i].GetComponent<RectTransform>().position = pos - new Vector2(0, height * showCount++);
                         dropDownList[i].GetComponentInChildren<TMP_Text>().text = categoryNames[i] + (count == 0 ? "" : $" ({count})");
                     }
                 }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51CCB17C-FA42-4235-AA76-AD24A74B771B}|CraftingFilter\\CraftingFilter.csproj|c:\\users\\administrator\\documents\\valheim-modding\\craftingfilter_fork-main\\craftingfilter\\obj\\debug\\net480\\craftingfilter.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51CCB17C-FA42-4235-AA76-AD24A74B771B}|CraftingFilter\\CraftingFilter.csproj|solutionrelative:craftingfilter\\obj\\debug\\net480\\craftingfilter.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51CCB17C-FA42-4235-AA76-AD24A74B771B}|CraftingFilter\\CraftingFilter.csproj|c:\\users\\administrator\\documents\\valheim-modding\\craftingfilter_fork-main\\craftingfilter\\bepinexplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51CCB17C-FA42-4235-AA76-AD24A74B771B}|CraftingFilter\\CraftingFilter.csproj|solutionrelative:craftingfilter\\bepinexplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51CCB17C-FA42-4235-AA76-AD24A74B771B}|CraftingFilter\\CraftingFilter.csproj|c:\\users\\administrator\\documents\\valheim-modding\\craftingfilter_fork-main\\craftingfilter\\craftingfilter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{51CCB17C-FA42-4235-AA76-AD24A74B771B}|CraftingFilter\\CraftingFilter.csproj|solutionrelative:craftingfilter\\craftingfilter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CraftingFilter.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
-              "RelativeToolTip": "CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Title": "BepInExPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\BepInExPlugin.cs",
+              "RelativeDocumentMoniker": "CraftingFilter\\BepInExPlugin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\BepInExPlugin.cs",
+              "RelativeToolTip": "CraftingFilter\\BepInExPlugin.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAAwPUAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T07:00:49.105Z",
+              "WhenOpened": "2024-05-05T06:53:44.776Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CraftingFilter.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
+              "RelativeToolTip": "CraftingFilter\\obj\\Debug\\net480\\CraftingFilter.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:00:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CraftingFilter",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\CraftingFilter.csproj",
               "RelativeDocumentMoniker": "CraftingFilter\\CraftingFilter.csproj",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\CraftingFilter.csproj",
               "RelativeToolTip": "CraftingFilter\\CraftingFilter.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-05T06:59:38.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BepInExPlugin.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\BepInExPlugin.cs",
-              "RelativeDocumentMoniker": "CraftingFilter\\BepInExPlugin.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CraftingFilter_Fork-main\\CraftingFilter\\BepInExPlugin.cs",
-              "RelativeToolTip": "CraftingFilter\\BepInExPlugin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T06:53:44.776Z",
+              "WhenOpened": "2024-05-26T18:59:46.258Z",
               "EditorCaption": ""
             }
           ]
