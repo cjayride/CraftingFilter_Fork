@@ -34,7 +34,7 @@ Here's an example custom categories.json file:
 "Resources:Material,Consumable",  
 "Weapons:OneHandedWeapon,Bow,Ammo,Hands,TwoHandedWeapon",  
 "Armor:Shield,Helmet,Chest,Legs,Shoulder",  
-"Misc:Customization,Trophie,Misc,Attach_Atgeir",  
+"Misc:Customization,Trophy,Misc,Attach_Atgeir",  
 "Tools:Torch,Utility,Tool"  
 ]  
 }  
@@ -42,6 +42,10 @@ Here's an example custom categories.json file:
 Any category which has the **None** type in it will show all items.  
 
 Categories are sorted alphabetically with the category with **None** in it at the top.
+
+## Known Issues
+
+Menu items are spaced incorrectly if game is in window mode and not fully expanded. Menu items DO space correctly if the game is in window mode fully expanded, and full-screen mode.
 
 ## Configuration
 

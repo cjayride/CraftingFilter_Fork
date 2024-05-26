@@ -1,3 +1,9 @@
+# v1.1.0
+- Fixed UI scaling.
+- Fixed UI scaling with Minimal_UI by Azumatt.
+- Known Issues: Menu items are spaced incorrectly if game is in window mode and not fully expanded. Menu items DO space correctly if the game is in window mode fully expanded, and full-screen mode.
+- Previously, the CraftingFilter items were set to match the LoadingGUI scaleFactor, instead of the CraftingPanelScale (InvetoryGUI.instance.m_crafting)
+
 # v1.0.0
 - Removed terminal reload
 - Added compatibility for v0.217.46
